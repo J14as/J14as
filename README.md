@@ -4,8 +4,8 @@
   # Jayesh Borkar
   ### Ruby on Rails Maestro | Full Stack Innovator
 
-  [![Linkedin Badge](https://img.shields.io/badge/-JayeshBorkar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayesh-borkar-08657a21b/)](https://www.linkedin.com/in/jayesh-borkar-08657a21b/)
-  [![Gmail Badge](https://img.shields.io/badge/-jayeshborkar5868@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayeshborkar5868@gmail.com)](mailto:jayeshborkar5868@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayesh-borkar-08657a21b/)](https://www.linkedin.com/in/jayesh-borkar-08657a21b/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayeshborkar5868@gmail.com)](mailto:jayeshborkar5868@gmail.com)
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&background=FFFFFF00&width=435&lines=Crafting+Elegant+Web+Solutions;Building+Scalable+Applications;Turning+Coffee+into+Code" alt="Typing SVG" />
 </div>
